@@ -20,7 +20,7 @@ JSP, JavaScript, jQueary, MySQL
 
 ## 목차
 1. [메인페이지](#메인페이지)
-2. [더제로 소개 페이지](#더제로-소개_페이지)
+2. [더제로 소개 페이지](#더제로-소개-페이지)
 3. [제품 상세 페이지](#제품-상세-페이지)
 4. [제품 페이지](#제품-페이지)
 5. [더제로 캠페인 페이지](#더제로-캠페인-페이지)
@@ -35,6 +35,8 @@ JSP, JavaScript, jQueary, MySQL
 14. [지구인 테스트 페이지](#지구인-테스트-페이지)
 
 # 홈페이지 소개
+<details><summary> THEZERO </summary>
+  
 #### 메인페이지
 <img src="https://github.com/Gaeun703/THEZERO/assets/126749340/5fcb30e4-503e-4923-82e6-0774733fdf98" >
 
@@ -53,7 +55,7 @@ JSP, JavaScript, jQueary, MySQL
 #### 더제로 캠페인 상세보기 페이지
 ![더제로 캠페인 상세보기](https://github.com/Gaeun703/THEZERO/assets/126749340/1d78c1ee-b050-4b73-82f3-b332228167e0)
 
-#### 따로 또 같이 페이지
+#### 따로 또 같이 캠페인 페이지
 ![THEZERO따로또같이 캠페인](https://github.com/Gaeun703/THEZERO/assets/126749340/5bbbdb8f-b6da-449e-8f16-844362d88609)
 
 #### 더제로 캠페인 게시판 페이지
@@ -79,3 +81,5 @@ JSP, JavaScript, jQueary, MySQL
   
 ![THEZERO더제로테스트](https://github.com/Gaeun703/THEZERO/assets/126749340/a40bfef1-45c9-40b2-b24a-07cea6888545)
 ![THEZERO테스트창](https://github.com/Gaeun703/THEZERO/assets/126749340/dcd33adc-43ef-48b5-8930-129cd1d8fd98)
+
+</details>
