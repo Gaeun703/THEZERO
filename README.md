@@ -18,7 +18,11 @@ JSP, JavaScript, jQueary, MySQL
 ## 더제로 홈페이지 사이트맵
 ![더제로 사이트맵](https://github.com/Gaeun703/THEZERO/assets/126749340/3fa8b8d7-110f-415c-8ba5-2d2925556161)
 
-## 목차
+
+# 홈페이지 소개
+<details><summary> THEZERO </summary>
+  
+  ## 목차
 1. [메인페이지](#메인페이지)
 2. [더제로 소개 페이지](#더제로-소개-페이지)
 3. [제품 상세 페이지](#제품-상세-페이지)
@@ -34,9 +38,6 @@ JSP, JavaScript, jQueary, MySQL
 13. [더제로와 함께 상세보기 페이지](#더제로와-함께-상세보기-페이지)
 14. [지구인 테스트 페이지](#지구인-테스트-페이지)
 
-# 홈페이지 소개
-<details><summary> THEZERO </summary>
-  
 #### 메인페이지
 <img src="https://github.com/Gaeun703/THEZERO/assets/126749340/5fcb30e4-503e-4923-82e6-0774733fdf98" >
 
