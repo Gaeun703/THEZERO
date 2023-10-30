@@ -12,15 +12,11 @@ JSP, JavaScript, jQueary, MySQL
 팀원2(본인) - html로 받은 파일을 JSP로 마이그레이션, DB ERD 작성 후 JSP로 만들어진 홈페이지를 MySQL과 연동하여 동적 홈페이지 기능 구현
 
 ## 웹사이트 주제 및 추구하는 목표
-
-더 제로는 리사이클 상품판매, 캠페인 소개 및 활동하기, 유용하고 다양한 환경소식을 이용할 수 있는 사이트 입니다.
-
-더 제로는 심각한 환경문제를 초래하는 많은 자원낭비와 재활용 등의 문제점을 함께 실천하고 해결하여 수치 0%로 줄여 나가자는 목표를 가지고 있습니다.
+![image](https://github.com/Gaeun703/THEZERO/assets/126749340/a78e23df-1a88-4f64-b777-8050ce776239)
+![image](https://github.com/Gaeun703/THEZERO/assets/126749340/7ba3c5ed-1bdf-4013-a5d7-cf5d512f44aa)
 
 ### 더제로 홈페이지 사이트맵
 ![더제로 사이트맵](https://github.com/Gaeun703/THEZERO/assets/126749340/3fa8b8d7-110f-415c-8ba5-2d2925556161)
-
-## 더제로 홈페이지 실행
 
 
 ## 홈페이지 소개
